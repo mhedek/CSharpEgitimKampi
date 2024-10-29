@@ -1,0 +1,7 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.pdb
