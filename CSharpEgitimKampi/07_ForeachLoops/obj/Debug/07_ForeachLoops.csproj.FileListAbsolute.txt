@@ -1,0 +1,7 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.pdb

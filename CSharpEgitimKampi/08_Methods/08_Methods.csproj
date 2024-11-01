@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{586A1F4B-006C-4927-80FD-60E39FB33777}</ProjectGuid>
+    <ProjectGuid>{930C2768-17BE-48F4-8AFF-EF705D473E1F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07_ForeachLoops</RootNamespace>
-    <AssemblyName>07_ForeachLoops</AssemblyName>
+    <RootNamespace>_08_Methods</RootNamespace>
+    <AssemblyName>08_Methods</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

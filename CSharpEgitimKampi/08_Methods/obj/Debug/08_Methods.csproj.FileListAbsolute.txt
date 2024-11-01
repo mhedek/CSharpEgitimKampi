@@ -1,0 +1,7 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb
