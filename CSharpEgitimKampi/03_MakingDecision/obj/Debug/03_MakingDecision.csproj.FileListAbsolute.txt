@@ -1,0 +1,7 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
