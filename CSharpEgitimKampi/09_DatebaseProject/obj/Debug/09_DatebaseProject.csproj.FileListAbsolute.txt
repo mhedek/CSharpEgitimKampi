@@ -1,0 +1,7 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\09_DatebaseProject\bin\Debug\09_DatebaseProject.exe.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\09_DatebaseProject\bin\Debug\09_DatebaseProject.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\09_DatebaseProject\bin\Debug\09_DatebaseProject.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\09_DatebaseProject\obj\Debug\09_DatebaseProject.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\09_DatebaseProject\obj\Debug\09_DatebaseProject.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\09_DatebaseProject\obj\Debug\09_DatebaseProject.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi\09_DatebaseProject\obj\Debug\09_DatebaseProject.pdb
