@@ -1,0 +1,9 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb

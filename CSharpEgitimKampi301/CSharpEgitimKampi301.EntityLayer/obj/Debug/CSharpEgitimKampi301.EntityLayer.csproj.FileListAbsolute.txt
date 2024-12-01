@@ -1,0 +1,12 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.xml
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEg.8B90B715.Up2Date
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.pdb

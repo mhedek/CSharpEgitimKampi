@@ -1,0 +1,17 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEg.01C77B6F.Up2Date
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache
