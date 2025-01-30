@@ -1,0 +1,13 @@
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe.config
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.pdb
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\bin\Debug\Dapper.dll
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\bin\Debug\Dapper.xml
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.AssemblyReference.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Form1.resources
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Properties.Resources.resources
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.GenerateResource.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CoreCompileInputs.cache
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEg.1578513C.Up2Date
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.exe
+D:\Projeler\C#YoutubeEgitim\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.pdb

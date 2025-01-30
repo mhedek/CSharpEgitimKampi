@@ -61,5 +61,10 @@ namespace CSharpEgitimKampi301.EFProject
             var values = db.Guide.Where(x => x.GuideId == id).ToList();
             dataGridView1.DataSource = values;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
